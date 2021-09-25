@@ -9,6 +9,12 @@ h1{
     padding: 30px 30px 30px 30px;
     margin: 20px auto;
     width: 500px;
-    background: url(1.gif) no-repeat left;
     background-size: 600px 500px;
+}
+.imageDasha{
+    background: url(../images/1.gif) no-repeat left;
+}
+.imagePavel{
+    background: url(../images/me.png) no-repeat left;
+    background-size: cover;
 }
