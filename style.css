@@ -1,0 +1,14 @@
+h1{
+    font-family: "Monotype Corsiva", serif  ;
+    font-size: 20pt;
+    text-align: left;
+    color: white;
+}
+.dd{
+    border: 2px dashed cornflowerblue;
+    padding: 30px 30px 30px 30px;
+    margin: 20px auto;
+    width: 500px;
+    background: url(1.gif) no-repeat left;
+    background-size: 600px 500px;
+}
